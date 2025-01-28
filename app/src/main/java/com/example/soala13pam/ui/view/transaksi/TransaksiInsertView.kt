@@ -22,7 +22,6 @@ import androidx.compose.ui.input.nestedscroll.nestedScroll
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.soala13pam.model.Tiket
-import com.example.soala13pam.model.Transaksi
 import com.example.soala13pam.ui.customwidget.SelectedTextField
 import com.example.soala13pam.ui.customwidget.TopAppBar
 import com.example.soala13pam.ui.navigation.DestinasiNavigasi

@@ -12,7 +12,6 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.soala13pam.ui.theme.SoalA13PAMTheme
-import com.example.soala13pam.ui.view.peserta.PesertaHomeScreen
 import com.example.soala13pam.ui.viewmodel.peserta.PesertaApp
 
 class MainActivity : ComponentActivity() {
