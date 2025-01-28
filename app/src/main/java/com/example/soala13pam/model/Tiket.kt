@@ -10,4 +10,6 @@ data class Tiket(
     @SerialName("id_peserta") val idPeserta: String,
     @SerialName("Kapasitas_tiket") val kapasitasTiket: String,
     @SerialName("harga_tiket") val hargaTiket: String,
+    val tanggalEvent: String? = null, // Data dari Event
+    val lokasiEvent: String? = null,  // Data dari Event
 )
